@@ -9,6 +9,6 @@ public class GreetingController {
 
     @GetMapping("/saludar")
     public String saludo(){
-        return "hola jeje";
+        return "hola profe Christian";
     }
 }
